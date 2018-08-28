@@ -1,29 +1,7 @@
 # Springer Nature Code Challenge
 
-Below is a coding challenge that we would like you to solve. Please read through the description carefully and implement a solution for it. We don't want you to over-engineer the solution but be prepared to extend the functionality in the next step of the interview process. Finally, we ask you to submit a solution that you'd be happy to go live with and works "out of the box”.
-
-Please complete the challenge in your preferred language.
-
-Please create a new git branch and then commit to this as you work. When you have finished please create a pull request to master. We will then review it within 7 days. Please do not make your solution public. 
-
-**Good Luck!**
-
-
-## Things We Value
-
-* Working software!
-* Tests.
-* A working build.
-* Small checkins with good comments.
-* A simple readme with build and run instructions, and maybe talk about trade offs and design decisions you made.
-* Simple code (but not necessarily easy!)
-* The fewer libraries the better - we want to see your code. If you do use a library then explain why in the readme.
-* We like functional constructs but also value good domain names and modelling.
-* Evidence you have thought about edge cases and errors (either in code or the readme).
-
-## Enough talk, the Problem
-
-You're given the task of writing a simple console version of a drawing program. The functionality of the program is quite limited but should be extensible. The program should work as follows:
+You're given the task of writing a simple console version of a drawing program. The functionality of the program is 
+quite limited but should be extensible. The program should work as follows:
 
 1. create a new canvas.
 2. start drawing on the canvas by issuing various commands.
